@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://hotelwhitedreams.com/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-exterior.jpg</image:loc>
+      <image:title>Hotel White Dreams Exterior – Modern Hotel in Koteshwor Kathmandu</image:title>
+      <image:caption>Hotel White Dreams building exterior in Koteshwor-32, Kathmandu, Nepal, near Tribhuvan International Airport</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-lobby.jpg</image:loc>
+      <image:title>Hotel White Dreams Lobby – Welcoming Entrance</image:title>
+      <image:caption>The welcoming lobby of Hotel White Dreams Palace in Kathmandu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-ac-room-double-bed.png</image:loc>
+      <image:title>Deluxe AC Double Bed Room at Hotel White Dreams</image:title>
+      <image:caption>Premium Deluxe AC Double Bed Room at Hotel White Dreams Kathmandu</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://hotelwhitedreams.com/rooms.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-normal-room-single-bed.jpg</image:loc>
+      <image:title>Standard Non-AC Single Bed Room – Hotel White Dreams Kathmandu</image:title>
+      <image:caption>Clean and comfortable Standard Non-AC Single Bed Room from NPR 1600/night</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-normal-room-double-bed.jpeg</image:loc>
+      <image:title>Standard Non-AC Double Bed Room – Hotel White Dreams</image:title>
+      <image:caption>Spacious Standard Double Bed Room from NPR 2200/night</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-ac-room-single-bed.jpg</image:loc>
+      <image:title>Deluxe AC Single Bed Room – Hotel White Dreams Kathmandu</image:title>
+      <image:caption>Air-conditioned Deluxe Single Room from NPR 2200/night</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-ac-room-triple-bed.jpeg</image:loc>
+      <image:title>Deluxe AC Triple Bed Room – Hotel White Dreams</image:title>
+      <image:caption>Family-size Deluxe AC Triple Room – up to 6 persons, NPR 3000/night</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://hotelwhitedreams.com/dining.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-dining-area.jpg</image:loc>
+      <image:title>Restaurant at Hotel White Dreams – Dining Area Kathmandu</image:title>
+      <image:caption>Modern restaurant and dining area at Hotel White Dreams Kathmandu, open 6:30 AM – 10 PM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-food-momo.jpeg</image:loc>
+      <image:title>Steamed Momo – Hotel White Dreams Restaurant</image:title>
+      <image:caption>Freshly steamed momos – Nepali speciality served at Hotel White Dreams restaurant</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-food-biryai.jpeg</image:loc>
+      <image:title>Aromatic Biryani – Hotel White Dreams Kathmandu</image:title>
+      <image:caption>Fragrant biryani served at Hotel White Dreams – Indian cuisine in Kathmandu</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://hotelwhitedreams.com/gallery.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-exterior.jpg</image:loc>
+      <image:title>Hotel White Dreams Exterior – Koteshwor Kathmandu</image:title>
+      <image:caption>Exterior view of Hotel White Dreams Palace building in Kathmandu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-hall.jpeg</image:loc>
+      <image:title>Conference and Event Hall – Hotel White Dreams</image:title>
+      <image:caption>Conference and banquet hall at Hotel White Dreams suitable for meetings and events</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-parking.jpg</image:loc>
+      <image:title>Free Parking at Hotel White Dreams Kathmandu</image:title>
+      <image:caption>Secure and spacious free parking area at Hotel White Dreams</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-reception-and-bar.png</image:loc>
+      <image:title>Reception and Bar – Hotel White Dreams</image:title>
+      <image:caption>24-hour reception and bar area at Hotel White Dreams Palace Kathmandu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-decorated-room.jpeg</image:loc>
+      <image:title>Decorated Room for Special Occasions – Hotel White Dreams</image:title>
+      <image:caption>Special occasion room decoration service at Hotel White Dreams Kathmandu</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://hotelwhitedreams.com/about.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://hotelwhitedreams.com/img/white-dreams-interior.jpg</image:loc>
+      <image:title>Hotel White Dreams Interior – Modern Design</image:title>
+      <image:caption>Modern hotel interior at Hotel White Dreams Palace Kathmandu</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://hotelwhitedreams.com/contact.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

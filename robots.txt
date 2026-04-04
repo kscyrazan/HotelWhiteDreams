@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Allow all image files for Google Image Search
+Allow: /img/
+
+# Sitemap
+Sitemap: https://hotelwhitedreams.com/sitemap.xml
+
+# Host
+Host: hotelwhitedreams.com
